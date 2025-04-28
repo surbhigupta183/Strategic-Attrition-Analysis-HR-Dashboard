@@ -51,33 +51,37 @@ Younger employees (especially <35) require robust career planning, mentorship, a
 Salary competitiveness is a serious retention lever, particularly at entry-level or junior roles.
 
 ## 5. Attrition by Job Role
-Visual: Bar Chart – Specific Roles Impacted
+![image](https://github.com/user-attachments/assets/78896968-0e7d-4d74-bbe6-cbb430639a60)
+
 •	Top 3 High-Attrition Roles:
-o	Laboratory Technician
-o	Sales Executive
-o	Research Scientist
+-	Laboratory Technician
+-	Sales Executive
+-	Research Scientist
 
 ✅ Interpretation:
 Specialized roles are at risk. Losing technical and client-facing talent can result in knowledge drain and revenue loss.
 
 ## 6. Education Field-wise Attrition
-Visual: Horizontal Bar Chart – Education Background Impact
-•	Employees from Life Sciences and Medical educational backgrounds dominate attrition.
-•	Marketing and Technical Degrees follow at a distance.
+![image](https://github.com/user-attachments/assets/9007e6c2-36a8-46ff-9c55-44e3089880b6)
+-	Employees from Life Sciences and Medical educational backgrounds dominate attrition.
+-	Marketing and Technical Degrees follow at a distance.
+  
 ✅ Interpretation:
 Sector-specific career mobility trends might be causing higher exits; alignment of role expectations and growth opportunities is necessary.
 
 ## 7. Attrition by Years at Company
-Visual: Line Chart – Tenure-wise Attrition Trend
-•	First 2 Years: Peak attrition (especially Year 1 and Year 2).
-•	Post 5 Years: Significant stabilization.
+![image](https://github.com/user-attachments/assets/4f315b1e-b3d5-441d-a916-a61d60f565d5)
+-	First 2 Years: Peak attrition (especially Year 1 and Year 2).
+-	Post 5 Years: Significant stabilization.
+  
 ✅ Interpretation:
 Retention efforts must be front-loaded within the first two years of employment to build long-term loyalty.
 
 ## 8. Job Satisfaction Rating Analysis
-Visual: Heatmap – Job Role vs Satisfaction Scores
-•	Low satisfaction observed among Sales Executives and Sales Representatives.
-•	Research Scientists and Managers show higher satisfaction spread.
+![image](https://github.com/user-attachments/assets/29b62309-3d26-437e-838c-7b04e8622f8a)
+-	Low satisfaction observed among Sales Executives and Sales Representatives.
+-	Research Scientists and Managers show higher satisfaction spread.
+  
 ✅ Interpretation:
 Job satisfaction directly correlates with attrition risk. Targeted engagement for Sales and client-facing employees is critical.
 
