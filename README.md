@@ -58,7 +58,6 @@ Salary competitiveness is a serious retention lever, particularly at entry-level
 Specialized roles are at risk. Losing technical and client-facing talent can result in knowledge drain and revenue loss.
 
 ## 6. Education Field-wise Attrition
-![image](https://github.com/user-attachments/assets/9007e6c2-36a8-46ff-9c55-44e3089880b6)
 -	Employees from Life Sciences and Medical educational backgrounds dominate attrition.
 -	Marketing and Technical Degrees follow at a distance.
   
@@ -112,3 +111,7 @@ This comprehensive view enables HR leaders and management to:
 In today's competitive talent market, employee experience is a key differentiator, and insights drawn from this dashboard position the organization to act decisively, strategically, and sustainably to retain its most valuable asset — its people. Moving forward, continuous monitoring of these KPIs and periodic deep-dives into attrition drivers will ensure that HR interventions remain timely, relevant, and effective, thereby reducing turnover costs, enhancing productivity, and promoting a positive organizational culture.
 ## Closing Thought:
 "Data-driven HR is not the future. It is today's best practice."
+
+## Preview
+![HR_DASHBOARD](https://github.com/user-attachments/assets/c3bd160a-99f0-4a1d-a6e2-4af0e377bdea)
+
