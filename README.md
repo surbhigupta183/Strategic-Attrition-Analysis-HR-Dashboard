@@ -35,7 +35,7 @@ Departments closest to product/service delivery (R&D and Sales) are most vulnera
 The company’s workforce is young to mid-career, offering agility but also a higher attrition risk if career progression isn't actively managed.
 
 ## 3. Attrition Rate by Gender for Different Age Groups
-![image](https://github.com/user-attachments/assets/dd3af258-3258-464a-8fb2-570a113ed387)
+![image](https://github.com/user-attachments/assets/1197aab4-1584-4c88-b9d4-7bad0e1ab3b4)
 -	Under 25 and 26-35: Highest absolute attrition numbers.
 -	Male attrition is marginally higher across age groups.
 
