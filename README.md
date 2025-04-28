@@ -19,9 +19,10 @@ Key Performance Indicators:
 ## II. Detailed Dashboard Walkthrough and Insights
 ## 1. Department-Wise Attrition
 Visual: Pie Chart – Department Breakdown
-•	Research & Development: Highest attrition (56.12%), indicating critical instability in a key business function.
-•	Sales: Second highest (38.8%), a common high-turnover area, but warrants deep attention.
-•	Human Resources: Lowest attrition (5.06%), showing stronger internal retention.
+- Research & Development: Highest attrition (56.12%), indicating critical instability in a key business function.
+-	Sales: Second highest (38.8%), a common high-turnover area, but warrants deep attention.
+-	Human Resources: Lowest attrition (5.06%), showing stronger internal retention.
+  
 ✅ Interpretation:
 Departments closest to product/service delivery (R&D and Sales) are most vulnerable, risking core operational effectiveness if not addressed.
 
