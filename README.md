@@ -18,7 +18,6 @@ Key Performance Indicators:
 - 
 ## II. Detailed Dashboard Walkthrough and Insights
 ## 1. Department-Wise Attrition
-![image](https://github.com/user-attachments/assets/e253dc28-8289-4bb1-a4bd-ceefb352df15)
 - Research & Development: Highest attrition (56.12%), indicating critical instability in a key business function.
 -	Sales: Second highest (38.8%), a common high-turnover area, but warrants deep attention.
 -	Human Resources: Lowest attrition (5.06%), showing stronger internal retention.
@@ -35,7 +34,6 @@ Departments closest to product/service delivery (R&D and Sales) are most vulnera
 The company’s workforce is young to mid-career, offering agility but also a higher attrition risk if career progression isn't actively managed.
 
 ## 3. Attrition Rate by Gender for Different Age Groups
-![image](https://github.com/user-attachments/assets/1197aab4-1584-4c88-b9d4-7bad0e1ab3b4)
 -	Under 25 and 26-35: Highest absolute attrition numbers.
 -	Male attrition is marginally higher across age groups.
 
