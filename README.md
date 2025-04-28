@@ -18,8 +18,7 @@ Key Performance Indicators:
 - 
 ## II. Detailed Dashboard Walkthrough and Insights
 ## 1. Department-Wise Attrition
-![image](https://github.com/user-attachments/assets/215159c4-bae1-4027-a89f-f76591731ac6)
-
+![image](https://github.com/user-attachments/assets/e253dc28-8289-4bb1-a4bd-ceefb352df15)
 - Research & Development: Highest attrition (56.12%), indicating critical instability in a key business function.
 -	Sales: Second highest (38.8%), a common high-turnover area, but warrants deep attention.
 -	Human Resources: Lowest attrition (5.06%), showing stronger internal retention.
@@ -28,7 +27,7 @@ Key Performance Indicators:
 Departments closest to product/service delivery (R&D and Sales) are most vulnerable, risking core operational effectiveness if not addressed.
 
 ## 2. Employee Count by Age Group and Gender
-Visual: Stacked Bar Chart – Age and Gender Segmentation
+![image](https://github.com/user-attachments/assets/c8316a78-618a-4b45-8e9b-3675bea7c4fc)
 -	Age 26-35: Largest employee group, critical for mid-level operational strength.
 -	Gender Split: Mild male dominance across age bands; balance considerations for DEI strategies.
   
@@ -36,7 +35,7 @@ Visual: Stacked Bar Chart – Age and Gender Segmentation
 The company’s workforce is young to mid-career, offering agility but also a higher attrition risk if career progression isn't actively managed.
 
 ## 3. Attrition Rate by Gender for Different Age Groups
-Visual: Donut Charts – Gender-wise Attrition Rate
+![image](https://github.com/user-attachments/assets/dd3af258-3258-464a-8fb2-570a113ed387)
 -	Under 25 and 26-35: Highest absolute attrition numbers.
 -	Male attrition is marginally higher across age groups.
 
@@ -44,7 +43,7 @@ Visual: Donut Charts – Gender-wise Attrition Rate
 Younger employees (especially <35) require robust career planning, mentorship, and engagement initiatives to curb attrition early.
 
 ## 4. Attrition by Salary Slab
-Visual: Horizontal Bar Chart – Salary Range Attrition
+![image](https://github.com/user-attachments/assets/11a62bc0-65a0-495d-b2a9-c3a22667a191)
 -	<5K Salary Bracket: 163 attritions — overwhelmingly dominant.
 -	Attrition sharply declines as salary increases.
   
