@@ -49,8 +49,6 @@ Younger employees (especially <35) require robust career planning, mentorship, a
 Salary competitiveness is a serious retention lever, particularly at entry-level or junior roles.
 
 ## 5. Attrition by Job Role
-![image](https://github.com/user-attachments/assets/78896968-0e7d-4d74-bbe6-cbb430639a60)
-
 •	Top 3 High-Attrition Roles:
 -	Laboratory Technician
 -	Sales Executive
